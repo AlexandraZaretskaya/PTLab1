@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Иванов Иван Иванович</name>
+        <subjects>
+            <subject>
+                <name>математика</name>
+                <grade>100</grade>
+            </subject>
+            <subject>
+                <name>программирование</name>
+                <grade>100</grade>
+            </subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Петров Петр Петрович</name>
+        <subjects>
+            <subject>
+                <name>математика</name>
+                <grade>90</grade>
+            </subject>
+            <subject>
+                <name>литература</name>
+                <grade>85</grade>
+            </subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Сидоров Алексей Николаевич</name>
+        <subjects>
+            <subject>
+                <name>физика</name>
+                <grade>100</grade>
+            </subject>
+            <subject>
+                <name>химия</name>
+                <grade>100</grade>
+            </subject>
+            <subject>
+                <name>математика</name>
+                <grade>100</grade>
+            </subject>
+        </subjects>
+    </student>
+</students>

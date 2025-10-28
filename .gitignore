@@ -1,0 +1,16 @@
+# Virtual environment
+tplab1-env/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
